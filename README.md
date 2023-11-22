@@ -1,2 +1,3 @@
 # Hello--World
- Primeiros codigos
+ Primeiros codigos, aula de Git e GitHub
+ 
